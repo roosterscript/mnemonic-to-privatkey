@@ -20,8 +20,11 @@
 3. Создать виртуальное окружение  `python -m venv venv`
 4. Активировать виртуальное окружение: 
 на macOS и Linux: `source venv/bin/activate`
-на Windows: venv\Scripts\activate.bat
+на Windows: `venv\Scripts\activate.bat`
 5. Установить необходимые пакеты `pip install -r requirements.txt`
 6. Запустить скрипт `python main.py`
 7. Забрать результат в `privatkeys.txt`
 
+
+---
+### Больше скриптов для автоматизации крипты в моем TG - [RoosterScript](https://t.me/RoosterScript)
