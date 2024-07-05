@@ -26,11 +26,11 @@
 7. Забрать результат в `privatkeys.txt`
 
 ---
-### Больше скриптов для автоматизации крипты в моем TG - [RoosterScript](https://t.me/RoosterScript)
+### Больше скриптов для автоматизации крипты в моем TG - [RoosterScript](https://t.me/+NWoYyeBEUz8yOTAy)
 
 
 
-## mnemonic_to_privatkay
+## Sript mnemonic_to_privatkay
 
 
 ### Description
@@ -54,4 +54,4 @@ The result will be written to the `privatkeys.txt` file.
 
 ---
 
-### More scripts for crypto automation in my TG - [RoosterScript](https://t.me/RoosterScript)
+### More scripts for crypto automation in my TG - [RoosterScript](https://t.me/+NWoYyeBEUz8yOTAy)
